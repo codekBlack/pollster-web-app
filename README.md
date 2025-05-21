@@ -8,7 +8,7 @@ Web app that manages polls and votes.
 - Bootstrap
 
 ## 📦 Features
-- User registration and login
+- Admin adds questions and choices
 - Vote to the polls
 - View vote counts
 
